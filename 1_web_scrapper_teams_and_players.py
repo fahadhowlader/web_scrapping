@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-@title : Scrap Teams Information
+@title : Scrap Teams and Players Information
 @author: pablorr10
 """
 
@@ -73,6 +73,9 @@ for equipo in equipos:
 equipos_df = equipos_df.reset_index()
 equipos_df.drop('index', axis=1, inplace=True)
 
+
+# Exportar a Excel
+# ----------------
 
 writer_jugadores = pd.ExcelWriter(path_to_save + '/jugadores_df.xlsx', engine='xlsxwriter')
 jugadores_df.to_excel(writer_jugadores, sheet_name='Nombre de los jugadores')
