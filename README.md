@@ -6,8 +6,8 @@
 In this repo I have wrote some scripts to perform Web Scrapping to obtain information about the [Spanish Footbal Leage](https://www.laliga.es). I like to bet and compete with my friends on forecasting football results. This tool is helpfull to make an Excel file instantaneously, so you can keep track of your progress.  
 
 
-I have done a [demo]() to show and explain line by line how to implemenent it with a easy example:  
-Retrieving the [calendar with all the matches of the 2018-2019 season]()
+I have done a [demo](https://github.com/PabloRR100/web_scrapping/blob/master/Calendar.md) to show and explain line by line how to implemenent it with a easy example:  
+Retrieving the [calendar with all the matches of the 2018-2019 season](https://github.com/PabloRR100/web_scrapping/blob/master/Calendar.md)
 
 The rest of the files are just the code that can be run to obtain:  
 
