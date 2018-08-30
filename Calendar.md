@@ -1,6 +1,5 @@
 
 # Web scrapping the footbal calendar to a custom Excel file
----
 
 <img src='https://github.com/PabloRR100/Betcomm/blob/master/Scrapping/images/title.png?raw=true' style='width:50%'>
     <br>
