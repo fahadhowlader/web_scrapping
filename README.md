@@ -1,6 +1,14 @@
 
 # Web Scraping with Beautiful Soap 4 for Python
 
+<div style='display:inline'>
+  <i style='float:left'> This blog is a spin-off my Master's Degree Thesis at UNIR </i>
+  <img src='https://static5.educaedu.com.mx/logos/9/3511.png' style='float:right'>
+</div>
+
+<br>
+<br>
+
 <img src='https://github.com/PabloRR100/Betcomm/blob/master/Scrapping/images/title.png?raw=true' style='width:50%'>
 
 In this repo I have wrote some scripts to perform Web Scrapping to obtain information about the <a href="https://www.laliga.es" target="_blank"> Spanish Footbal Leage </a>. I like to bet and compete with my friends on forecasting football results. This tool is helpfull to make an Excel file instantaneously, so you can keep track of your progress.  
