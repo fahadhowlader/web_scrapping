@@ -5,7 +5,7 @@
 <br>
 
 <hr>
-<div style='display:inline; background-color:red'>
+<div style='display:inline; padding:20px; background-color:red'>
   <i style='float:left'> This blog is a spin-off my Master's Degree Thesis at Universidad Internacional de La Rioja </i>
   <img src='https://static5.educaedu.com.mx/logos/9/3511.png' style='float:right'>
 </div>
