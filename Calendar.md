@@ -3,6 +3,12 @@
 
 <img src='https://github.com/PabloRR100/Betcomm/blob/master/Scrapping/images/title.png?raw=true' style='width:50%'>
     <br>
+
+<div style='display:inline; background-color:red'>
+  <i style='float:left'> This blog is a spin-off my Master's Degree Thesis at Universidad Internacional de La Rioja </i>
+  <img src='https://static5.educaedu.com.mx/logos/9/3511.png' style='float:right'>
+</div>
+
 <div class='text-justify'>
 
 In this post I will make use of the Python library, <a href=''> Beautiful Soap 4</a>, to scrap content on the web to build an excel with all the footbal matches of the <a href='https://www.laliga.es'> Spanish Football League</a>.
